@@ -22,7 +22,8 @@ f"src/{project_name}/constants/__init__.py",
 'requirements.txt',
 'setup.py',
 'research/trials.ipynb',
-'test.py'
+'test.py',
+"templates/index.html"
 
 
 
